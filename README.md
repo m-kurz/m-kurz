@@ -8,3 +8,5 @@ I thrive on the synergy between science and number crunching—-whether it's opt
 🚀  Along the way, I’ve contributed to several open-source projects both inside and outside these fields, which you can check out on my profile.
 
 💬  If you're into CFD, HPC, or the fusion of machine learning and simulation, feel free to reach out!
+
+<img src="media/turbine.jpg" alt="Flow field around turbine stage" width=99%>
